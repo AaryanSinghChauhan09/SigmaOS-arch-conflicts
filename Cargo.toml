@@ -1,0 +1,9 @@
+[package]
+name = "arch-conflicts"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SigmaOS-arch-conflicts component - Inspired by Arch Linux and Debian"
+license = "MIT"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-conflicts"
+
+[dependencies]
